@@ -6,12 +6,12 @@
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.1.2</Version>
+  <Version>1.1.3</Version>
   <ReleaseDate>2020-04-12</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile UncompressedSize="105973996" CompressedSize="27173640" OS="Any"/>
+  <UpdateFile UncompressedSize="105973996" OS="Any" CompressedSize="27167617"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>965904d9d6741277c23032d732fe1084e38e5525</SHA1>
+  <SHA1>c4452332ebc9466ca85491bf64a606b997fbff62</SHA1>
  </PackageUpdate>
 </Updates>
