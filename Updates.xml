@@ -10,8 +10,8 @@
   <ReleaseDate>2020-07-03</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile CompressedSize="22457841" OS="Any" UncompressedSize="92279042"/>
-  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>78c07f154d48cbc0be55dbe176ee3207e6bad195</SHA1>
+  <UpdateFile UncompressedSize="130195680" CompressedSize="35782107" OS="Any"/>
+  <DownloadableArchives>bearer.7z,export.7z,history.7z,iconengines.7z,imageformats.7z,osc.7z,photo.7z,platforms.7z,printsupport.7z,sqldrivers.7z,styles.7z,translations.7z,video.7z,content.7z</DownloadableArchives>
+  <SHA1>854df2241828299ba3812bb1d1b35410b73aa763</SHA1>
  </PackageUpdate>
 </Updates>
