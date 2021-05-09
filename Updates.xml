@@ -6,8 +6,8 @@
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.2.16</Version>
-  <ReleaseDate>2020-07-03</ReleaseDate>
+  <Version>1.3.2</Version>
+  <ReleaseDate>2021-05-09</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
   <UpdateFile UncompressedSize="131373669" OS="Any" CompressedSize="36619538"/>
