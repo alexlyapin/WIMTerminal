@@ -9,11 +9,12 @@
   <Version>1.3.2</Version>
   <ReleaseDate>2021-05-09</ReleaseDate>
   <SortingPriority>40</SortingPriority>
-  <Checkable>false</Checkable>
-  <UpdateFile UncompressedSize="131373669" OS="Any" CompressedSize="36619538"/>
-  <DownloadableArchives>bearer.7z,export.7z,history.7z,iconengines.7z,imageformats.7z,osc.7z,photo.7z,platforms.7z,printsupport.7z,sqldrivers.7z,styles.7z,translations.7z,video.7z,content.7z</DownloadableArchives>
-  <SHA1>8e9df3b8284c24a975a5a7aa3f657423a5f569a5</SHA1>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile OS="Any" CompressedSize="35593408" UncompressedSize="148900548"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>4a03ab4cc4c700afac857e0a92a55c46a6af7c64</SHA1>
  </PackageUpdate>
- <SHA1>8e9df3b8284c24a975a5a7aa3f657423a5f569a5</SHA1>
- <MetadataName>2021-01-22-1334_meta.7z</MetadataName>
+ <SHA1>4a03ab4cc4c700afac857e0a92a55c46a6af7c64</SHA1>
+ <MetadataName>2021-05-09-2148_meta.7z</MetadataName>
 </Updates>
