@@ -11,9 +11,9 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="20016681" CompressedSize="3392490"/>
+  <UpdateFile OS="Any" CompressedSize="3392490" UncompressedSize="20016681"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>7c36f43bd62444166c23ed1b4246d3fededbb1bf</SHA1>
+  <SHA1>744c42793ce10c3b7596d5378e3fd2be79e13cfc</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
@@ -24,23 +24,23 @@
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="146662280" CompressedSize="34748334"/>
+  <UpdateFile OS="Any" CompressedSize="34748309" UncompressedSize="146662280"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>98c58241f6c0fdaba8dd9bede89ee39d7ba1c0a5</SHA1>
+  <SHA1>110594fab74b286755ea4430026a7d15f5c2614a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.3.6</Version>
+  <Version>1.3.7</Version>
   <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="2274344" CompressedSize="853914"/>
+  <UpdateFile OS="Any" CompressedSize="853914" UncompressedSize="2274344"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>780c27baabe91f1c7dbad4f87830884fffeb8892</SHA1>
+  <SHA1>f68c3cc6e30fb958b36f139711dff823e09f36b7</SHA1>
  </PackageUpdate>
- <SHA1>9682d179811784de9fc1a6d3321c9e2347d3f890</SHA1>
- <MetadataName>2021-06-06-2106_meta.7z</MetadataName>
+ <SHA1>bba1c652d4fe4692c753bfc8fd94f683319c586c</SHA1>
+ <MetadataName>2021-06-06-2110_meta.7z</MetadataName>
 </Updates>
