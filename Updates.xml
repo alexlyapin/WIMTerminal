@@ -3,18 +3,44 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>WimTerminal</Name>
-  <DisplayName>WIMTerminal</DisplayName>
-  <Description>WIMTerminal client</Description>
-  <Version>1.3.5</Version>
-  <ReleaseDate>2021-05-23</ReleaseDate>
+  <Name>OscillogrammViewer</Name>
+  <DisplayName>OscillogrammViewer</DisplayName>
+  <Description>OscillogrammViewer client</Description>
+  <Version>1.1.0</Version>
+  <ReleaseDate>2021-06-06</ReleaseDate>
+  <SortingPriority>60</SortingPriority>
+  <Default>true</Default>
+  <ForcedInstallation>false</ForcedInstallation>
+  <UpdateFile OS="Any" UncompressedSize="20016681" CompressedSize="3392490"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>7c36f43bd62444166c23ed1b4246d3fededbb1bf</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>WimCore</Name>
+  <DisplayName>WIMCore</DisplayName>
+  <Description>WIMCore base libraries</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="35596710" OS="Any" UncompressedSize="148936584"/>
+  <UpdateFile OS="Any" UncompressedSize="146662280" CompressedSize="34748334"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>0c6895895690aed6c8d07d1587d3c0708515533f</SHA1>
+  <SHA1>98c58241f6c0fdaba8dd9bede89ee39d7ba1c0a5</SHA1>
  </PackageUpdate>
- <SHA1>0c6895895690aed6c8d07d1587d3c0708515533f</SHA1>
- <MetadataName>2021-05-23-1952_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>WimTerminal</Name>
+  <DisplayName>WIMTerminal</DisplayName>
+  <Description>WIMTerminal client</Description>
+  <Version>1.3.6</Version>
+  <ReleaseDate>2021-06-06</ReleaseDate>
+  <SortingPriority>50</SortingPriority>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <UpdateFile OS="Any" UncompressedSize="2274344" CompressedSize="853914"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>780c27baabe91f1c7dbad4f87830884fffeb8892</SHA1>
+ </PackageUpdate>
+ <SHA1>9682d179811784de9fc1a6d3321c9e2347d3f890</SHA1>
+ <MetadataName>2021-06-06-2106_meta.7z</MetadataName>
 </Updates>
