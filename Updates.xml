@@ -11,36 +11,36 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="20016681" CompressedSize="3392490"/>
+  <UpdateFile CompressedSize="3392490" UncompressedSize="20016681" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>b87e0862752b3b7bc4ca443e7aba8f556215b870</SHA1>
+  <SHA1>297a610c85ca271ddded113a50de44068ae9b65a</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="132564491" CompressedSize="34694023"/>
+  <UpdateFile CompressedSize="34693900" UncompressedSize="132549500" OS="Any"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>a41400a6c57d34b78d25b932534c5d0750938abf</SHA1>
+  <SHA1>87284343a2f8aefea3a0ce00b6279190d2dc9616</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.4.0</Version>
+  <Version>1.4.1</Version>
   <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="5525288" CompressedSize="5248166"/>
+  <UpdateFile CompressedSize="5250499" UncompressedSize="5525288" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>de30fabec0eb0e392e5d3573bbd75a6ca1a31cb6</SHA1>
+  <SHA1>9ca7095ec9df16b8effc20d79506f7e4ab8ac3ab</SHA1>
  </PackageUpdate>
- <SHA1>adc50872ff2fbda059131c236a3c58700ca7993a</SHA1>
- <MetadataName>2021-09-09-0823_meta.7z</MetadataName>
+ <SHA1>9611de563f110cb453a583b2be4812784cff8f19</SHA1>
+ <MetadataName>2021-09-09-1021_meta.7z</MetadataName>
 </Updates>
