@@ -11,36 +11,36 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile CompressedSize="3392490" UncompressedSize="20016681" OS="Any"/>
+  <UpdateFile CompressedSize="3392490" OS="Any" UncompressedSize="20016681"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>297a610c85ca271ddded113a50de44068ae9b65a</SHA1>
+  <SHA1>1fa2f428caa361af6b4d6a6376f204198951338c</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.0.2</Version>
+  <Version>1.1.0</Version>
   <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="34693900" UncompressedSize="132549500" OS="Any"/>
+  <UpdateFile CompressedSize="34893659" OS="Any" UncompressedSize="133373820"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>87284343a2f8aefea3a0ce00b6279190d2dc9616</SHA1>
+  <SHA1>eb20404e82a836685a2366d46c1a677d460ee775</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.4.1</Version>
+  <Version>1.6.0</Version>
   <ReleaseDate>2021-06-06</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="5250499" UncompressedSize="5525288" OS="Any"/>
+  <UpdateFile CompressedSize="5132578" OS="Any" UncompressedSize="5407528"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>9ca7095ec9df16b8effc20d79506f7e4ab8ac3ab</SHA1>
+  <SHA1>9092237bee71b809003dcd1e76207a84eae4eb8c</SHA1>
  </PackageUpdate>
- <SHA1>9611de563f110cb453a583b2be4812784cff8f19</SHA1>
- <MetadataName>2021-09-09-1021_meta.7z</MetadataName>
+ <SHA1>c1282a8b36a43d8b98a4cffa347b6cb230d12e9d</SHA1>
+ <MetadataName>2022-03-27-1651_meta.7z</MetadataName>
 </Updates>
