@@ -11,9 +11,9 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile OS="Any" CompressedSize="3392490" UncompressedSize="20016681"/>
+  <UpdateFile CompressedSize="3392490" OS="Any" UncompressedSize="20016681"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>037a0abc854e3ae2a6c1e41d3ad5fcf3a1a2a3ce</SHA1>
+  <SHA1>b2d30fb098b941f1fa3adcd249a6858ef91c46db</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
@@ -24,23 +24,23 @@
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" CompressedSize="34899692" UncompressedSize="133376380"/>
+  <UpdateFile CompressedSize="34899680" OS="Any" UncompressedSize="133376380"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>20d1ef24b0e4581b75c1d3e2a0d25d3c53683c68</SHA1>
+  <SHA1>34a84bf3d527151a8b3c25cecc00ade674db8188</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.6.3</Version>
-  <ReleaseDate>2021-06-06</ReleaseDate>
+  <Version>1.6.4</Version>
+  <ReleaseDate>2022-04-04</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" CompressedSize="7437372" UncompressedSize="9100800"/>
+  <UpdateFile CompressedSize="5174547" OS="Any" UncompressedSize="5450024"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>8146301d63716736693a2c5e89389f3188e2e367</SHA1>
+  <SHA1>7728cb409cefc3a5aa5ddc2adf6f879dbb1b326d</SHA1>
  </PackageUpdate>
- <SHA1>1378fd9c03ff2113de8b11a70ec60c4d35b62f49</SHA1>
- <MetadataName>2022-04-04-1741_meta.7z</MetadataName>
+ <SHA1>e90ef73a3766b76174a61fe2a7a7540dd932e942</SHA1>
+ <MetadataName>2022-04-04-2127_meta.7z</MetadataName>
 </Updates>
