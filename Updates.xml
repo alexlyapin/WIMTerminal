@@ -13,7 +13,7 @@
   <ForcedInstallation>false</ForcedInstallation>
   <UpdateFile UncompressedSize="20016681" OS="Any" CompressedSize="3392490"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>76464dfe69886b444c40d63feee1ef997e181db6</SHA1>
+  <SHA1>6d4caa7372d4f4381c0e200b56232e4d0ceb2e76</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
@@ -26,21 +26,21 @@
   <ForcedInstallation>true</ForcedInstallation>
   <UpdateFile UncompressedSize="133377404" OS="Any" CompressedSize="34897248"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>d82e739dc4fe34387769099197ef71a97f1b130e</SHA1>
+  <SHA1>0ea532f31cdfc93be2e6f8138f4b9287ed55a3e7</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.6.5</Version>
+  <Version>1.6.6</Version>
   <ReleaseDate>2022-04-19</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="5452584" OS="Any" CompressedSize="5177780"/>
+  <UpdateFile UncompressedSize="5452584" OS="Any" CompressedSize="5177456"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>8169963a0e4d24180afe58a8116d3f7828c3c40c</SHA1>
+  <SHA1>9777d4b6536f82f3588014d7886a2c3b6b2fa98c</SHA1>
  </PackageUpdate>
- <SHA1>02b08b6a73856ce48fe9339f92e2082b22d57732</SHA1>
- <MetadataName>2022-04-19-1613_meta.7z</MetadataName>
+ <SHA1>2bed40f0128475f72eb819f25fb8324b67b07321</SHA1>
+ <MetadataName>2022-04-19-1640_meta.7z</MetadataName>
 </Updates>
