@@ -11,36 +11,36 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile CompressedSize="3392490" UncompressedSize="20016681" OS="Any"/>
+  <UpdateFile CompressedSize="3392490" OS="Any" UncompressedSize="20016681"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>d68711b706c1c9832bb92072d6310ca191d8626f</SHA1>
+  <SHA1>c62c6ffd51e44c3850401b5a1aac8317635cd68b</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.4.0</Version>
-  <ReleaseDate>2022-04-19</ReleaseDate>
+  <Version>1.5.0</Version>
+  <ReleaseDate>2023-02-14</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="35517052" UncompressedSize="136801348" OS="Any"/>
+  <UpdateFile CompressedSize="36391182" OS="Any" UncompressedSize="140199451"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>6c0ac1d1d02a9480c379a58a7a1acd1532774100</SHA1>
+  <SHA1>af00c8944679a51f3097baac1b0c106109f6cf10</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.7.1</Version>
-  <ReleaseDate>2022-04-19</ReleaseDate>
+  <Version>1.8.1</Version>
+  <ReleaseDate>2023-02-14</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="5355057" UncompressedSize="5630760" OS="Any"/>
+  <UpdateFile CompressedSize="5421271" OS="Any" UncompressedSize="5696296"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>ddd6faf86bb6c1d8bdf99ac1a63d10feda5e2ec6</SHA1>
+  <SHA1>dfbfcbcddfab9ca3f3399f3e4ff1f20f2f333a2d</SHA1>
  </PackageUpdate>
- <SHA1>fab41f4575cf2bc85427b3ebee3c47b2bee81758</SHA1>
- <MetadataName>2022-07-05-1831_meta.7z</MetadataName>
+ <SHA1>1bfbb9b712eaf206670ab341fd208573d96d3ed8</SHA1>
+ <MetadataName>2023-02-14-2300_meta.7z</MetadataName>
 </Updates>
