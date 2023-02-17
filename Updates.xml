@@ -11,22 +11,22 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile CompressedSize="3392490" OS="Any" UncompressedSize="20016681"/>
+  <UpdateFile CompressedSize="3392490" UncompressedSize="20016681" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>c62c6ffd51e44c3850401b5a1aac8317635cd68b</SHA1>
+  <SHA1>8dc9d92396472513ae9beb96bb4aee179f4ae88e</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.5.0</Version>
-  <ReleaseDate>2023-02-14</ReleaseDate>
+  <Version>1.5.1</Version>
+  <ReleaseDate>2023-02-17</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="36391182" OS="Any" UncompressedSize="140199451"/>
+  <UpdateFile CompressedSize="36398591" UncompressedSize="140199963" OS="Any"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>af00c8944679a51f3097baac1b0c106109f6cf10</SHA1>
+  <SHA1>81eb156274c067eee181718536efadc9dac99953</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
@@ -37,10 +37,10 @@
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="5421271" OS="Any" UncompressedSize="5696296"/>
+  <UpdateFile CompressedSize="5421271" UncompressedSize="5696296" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>dfbfcbcddfab9ca3f3399f3e4ff1f20f2f333a2d</SHA1>
+  <SHA1>04d1bd263d12bc4abf524623e44a987e41deb840</SHA1>
  </PackageUpdate>
- <SHA1>1bfbb9b712eaf206670ab341fd208573d96d3ed8</SHA1>
- <MetadataName>2023-02-14-2300_meta.7z</MetadataName>
+ <SHA1>c61b27542bd82a84dc671215f080d0fd6c24c6d6</SHA1>
+ <MetadataName>2023-02-17-0930_meta.7z</MetadataName>
 </Updates>
