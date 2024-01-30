@@ -11,9 +11,9 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="20016681" CompressedSize="3353896"/>
+  <UpdateFile CompressedSize="3353896" UncompressedSize="20016681" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>759bcc3f071cd0387a2bf65800d6017d886e857a</SHA1>
+  <SHA1>7124570641c7c83ed68572665fd98f5ab18bbe00</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
@@ -24,23 +24,23 @@
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="137495763" CompressedSize="37206403"/>
+  <UpdateFile CompressedSize="37206366" UncompressedSize="137495763" OS="Any"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>e809bc7dde69349b1b22a065a1b713202a882e58</SHA1>
+  <SHA1>0e5f5be2c96835b5ff577257b2aaa2ec9c939420</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>1.9.3</Version>
-  <ReleaseDate>2023-11-10</ReleaseDate>
+  <Version>1.10.0</Version>
+  <ReleaseDate>2024-01-30</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" UncompressedSize="5927208" CompressedSize="5705086"/>
+  <UpdateFile CompressedSize="5730485" UncompressedSize="5953336" OS="Any"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>3135302f5681e4675a4430187ef7691e1747dc63</SHA1>
+  <SHA1>7791ac94eb55a8cada98ff71cfa1a231515a1439</SHA1>
  </PackageUpdate>
- <SHA1>b3170d564ba8e35bc3fa20028ed83975f5a7855d</SHA1>
- <MetadataName>2023-11-10-1036_meta.7z</MetadataName>
+ <SHA1>bad852225275cf360b0366dbf0e5176884e8229c</SHA1>
+ <MetadataName>2024-01-30-2305_meta.7z</MetadataName>
 </Updates>
