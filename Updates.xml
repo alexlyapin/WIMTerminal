@@ -13,20 +13,20 @@
   <ForcedInstallation>false</ForcedInstallation>
   <UpdateFile UncompressedSize="20016681" OS="Any" CompressedSize="3353896"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>4f8377a3c937d45ea237da01ccee385d3fc5c32f</SHA1>
+  <SHA1>ba9dea117b62de8b8540b7a89cd2514c5145d4d8</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.6.0</Version>
-  <ReleaseDate>2023-10-26</ReleaseDate>
+  <Version>1.6.1</Version>
+  <ReleaseDate>2024-02-01</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="137495763" OS="Any" CompressedSize="37206358"/>
+  <UpdateFile UncompressedSize="136510188" OS="Any" CompressedSize="37585516"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>0f9524d1a7267a8110bead3102c4ae6380ce6525</SHA1>
+  <SHA1>4bdd026ecc61423fb2a9bfbfdb827c400da92fd5</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
@@ -39,8 +39,8 @@
   <ForcedInstallation>true</ForcedInstallation>
   <UpdateFile UncompressedSize="5953336" OS="Any" CompressedSize="5730485"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>c0bce6bdcbcf6d9d54e49abcb4e5434fb90304aa</SHA1>
+  <SHA1>61f53119ffc9e0cc2f1e6a760c0b5362428caea3</SHA1>
  </PackageUpdate>
- <SHA1>e49c7d673f1bc39f1b459fecc0416dc3d43aff6c</SHA1>
- <MetadataName>2024-02-01-2015_meta.7z</MetadataName>
+ <SHA1>d522906535c0dc741c7c277cc4ff8c1a4247a05c</SHA1>
+ <MetadataName>2024-02-01-2040_meta.7z</MetadataName>
 </Updates>
