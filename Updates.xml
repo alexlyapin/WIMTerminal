@@ -11,36 +11,36 @@
   <SortingPriority>60</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>false</ForcedInstallation>
-  <UpdateFile UncompressedSize="20016681" OS="Any" CompressedSize="3353896"/>
+  <UpdateFile OS="Any" UncompressedSize="20016681" CompressedSize="3353896"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>ba9dea117b62de8b8540b7a89cd2514c5145d4d8</SHA1>
+  <SHA1>323822198b5c7be6752b3fa54c5bd735482eeb6d</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimCore</Name>
   <DisplayName>WIMCore</DisplayName>
   <Description>WIMCore base libraries</Description>
-  <Version>1.6.1</Version>
-  <ReleaseDate>2024-02-01</ReleaseDate>
+  <Version>1.6.2</Version>
+  <ReleaseDate>2024-02-13</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="136510188" OS="Any" CompressedSize="37585516"/>
+  <UpdateFile OS="Any" UncompressedSize="136513129" CompressedSize="37583844"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,printsupport.7z,reports.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>4bdd026ecc61423fb2a9bfbfdb827c400da92fd5</SHA1>
+  <SHA1>c098304a3775aa35c5c64a06d4b0ce19cd902188</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>WimTerminal</Name>
   <DisplayName>WIMTerminal</DisplayName>
   <Description>WIMTerminal client</Description>
-  <Version>2.00.0</Version>
-  <ReleaseDate>2024-01-30</ReleaseDate>
+  <Version>2.01.0</Version>
+  <ReleaseDate>2024-02-13</ReleaseDate>
   <SortingPriority>50</SortingPriority>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile UncompressedSize="5953336" OS="Any" CompressedSize="5730485"/>
+  <UpdateFile OS="Any" UncompressedSize="5953848" CompressedSize="5731289"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>61f53119ffc9e0cc2f1e6a760c0b5362428caea3</SHA1>
+  <SHA1>4a3b72bb5de73817211682cd0ca807e4a62df690</SHA1>
  </PackageUpdate>
- <SHA1>d522906535c0dc741c7c277cc4ff8c1a4247a05c</SHA1>
- <MetadataName>2024-02-01-2040_meta.7z</MetadataName>
+ <SHA1>a434aaf07b9999b607683c706779e119ca41ad5a</SHA1>
+ <MetadataName>2024-02-13-0028_meta.7z</MetadataName>
 </Updates>
